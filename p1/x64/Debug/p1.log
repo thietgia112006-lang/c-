@@ -1,11 +1,2 @@
 ﻿  p1.cpp
-C:\hoc c++\p1\p1.cpp(27,18): error C2065: 'd': undeclared identifier
-C:\hoc c++\p1\p1.cpp(33,30): error C2059: syntax error: ')'
-C:\hoc c++\p1\p1.cpp(33,32): error C2143: syntax error: missing ';' before '{'
-C:\hoc c++\p1\p1.cpp(34,30): error C2947: expecting '>' to terminate template-argument-list, found '<<'
-C:\hoc c++\p1\p1.cpp(34,33): error C2059: syntax error: 'string'
-C:\hoc c++\p1\p1.cpp(37,21): error C2181: illegal else without matching if
-C:\hoc c++\p1\p1.cpp(38,62): error C2065: 'd': undeclared identifier
-C:\hoc c++\p1\p1.cpp(39,62): error C2065: 'd': undeclared identifier
-C:\hoc c++\p1\p1.cpp(43,1): error C2059: syntax error: '}'
-C:\hoc c++\p1\p1.cpp(43,1): error C2143: syntax error: missing ';' before '}'
+  p1.vcxproj -> C:\hoc c++\x64\Debug\p1.exe
